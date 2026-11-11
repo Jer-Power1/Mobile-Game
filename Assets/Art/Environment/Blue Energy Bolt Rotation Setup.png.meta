@@ -1,0 +1,1666 @@
+fileFormatVersion: 2
+guid: 14cd32cb18540a24dbd1ca55a84d8ee9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2824219344135908084
+    second: Blue Energy Bolt Rotation Setup_0
+  - first:
+      213: 3532479818585784074
+    second: Blue Energy Bolt Rotation Setup_1
+  - first:
+      213: 3863743995301613319
+    second: Blue Energy Bolt Rotation Setup_2
+  - first:
+      213: 7579674418003939592
+    second: Blue Energy Bolt Rotation Setup_3
+  - first:
+      213: 8198325034025825142
+    second: Blue Energy Bolt Rotation Setup_4
+  - first:
+      213: 5623352174098120876
+    second: Blue Energy Bolt Rotation Setup_5
+  - first:
+      213: -7123705743764736945
+    second: Blue Energy Bolt Rotation Setup_6
+  - first:
+      213: -4821490906233499341
+    second: Blue Energy Bolt Rotation Setup_7
+  - first:
+      213: -7608185495916223019
+    second: Blue Energy Bolt Rotation Setup_8
+  - first:
+      213: 5276876300437762957
+    second: Blue Energy Bolt Rotation Setup_9
+  - first:
+      213: 5298017368174662980
+    second: Blue Energy Bolt Rotation Setup_10
+  - first:
+      213: 9057898459158300459
+    second: Blue Energy Bolt Rotation Setup_11
+  - first:
+      213: -1444419545173798088
+    second: Blue Energy Bolt Rotation Setup_12
+  - first:
+      213: -1968305158720027426
+    second: Blue Energy Bolt Rotation Setup_13
+  - first:
+      213: 829003102049654391
+    second: Blue Energy Bolt Rotation Setup_14
+  - first:
+      213: 7400540399426184020
+    second: Blue Energy Bolt Rotation Setup_15
+  - first:
+      213: -4512836144604044995
+    second: Blue Energy Bolt Rotation Setup_16
+  - first:
+      213: -4441912049306162744
+    second: Blue Energy Bolt Rotation Setup_17
+  - first:
+      213: 4409542962175555166
+    second: Blue Energy Bolt Rotation Setup_18
+  - first:
+      213: 7975663347803386439
+    second: Blue Energy Bolt Rotation Setup_19
+  - first:
+      213: -1390168612467756273
+    second: Blue Energy Bolt Rotation Setup_20
+  - first:
+      213: -2424000540432793049
+    second: Blue Energy Bolt Rotation Setup_21
+  - first:
+      213: 5784705596391771052
+    second: Blue Energy Bolt Rotation Setup_22
+  - first:
+      213: -1025103414776405543
+    second: Blue Energy Bolt Rotation Setup_23
+  - first:
+      213: -7899648749891433537
+    second: Blue Energy Bolt Rotation Setup_24
+  - first:
+      213: 1884649252015119986
+    second: Blue Energy Bolt Rotation Setup_25
+  - first:
+      213: 9076981709913944714
+    second: Blue Energy Bolt Rotation Setup_26
+  - first:
+      213: -8225328272891885728
+    second: Blue Energy Bolt Rotation Setup_27
+  - first:
+      213: -8804638724803202698
+    second: Blue Energy Bolt Rotation Setup_28
+  - first:
+      213: 8636583392686775789
+    second: Blue Energy Bolt Rotation Setup_29
+  - first:
+      213: -517831345836686052
+    second: Blue Energy Bolt Rotation Setup_30
+  - first:
+      213: 364535698095546706
+    second: Blue Energy Bolt Rotation Setup_31
+  - first:
+      213: 5033739150716161200
+    second: Blue Energy Bolt Rotation Setup_32
+  - first:
+      213: -1268678912470907194
+    second: Blue Energy Bolt Rotation Setup_33
+  - first:
+      213: -7478118238948984189
+    second: Blue Energy Bolt Rotation Setup_34
+  - first:
+      213: -1587729991564888313
+    second: Blue Energy Bolt Rotation Setup_35
+  - first:
+      213: 2263572239096612178
+    second: Blue Energy Bolt Rotation Setup_36
+  - first:
+      213: 6751677199626204434
+    second: Blue Energy Bolt Rotation Setup_37
+  - first:
+      213: 5662706739429678806
+    second: Blue Energy Bolt Rotation Setup_38
+  - first:
+      213: -5879023912884275130
+    second: Blue Energy Bolt Rotation Setup_39
+  - first:
+      213: -4242977829785391027
+    second: Blue Energy Bolt Rotation Setup_40
+  - first:
+      213: -7032996011682188627
+    second: Blue Energy Bolt Rotation Setup_41
+  - first:
+      213: -4349265762844347854
+    second: Blue Energy Bolt Rotation Setup_42
+  - first:
+      213: -114551275872094329
+    second: Blue Energy Bolt Rotation Setup_43
+  - first:
+      213: 218489115103010707
+    second: Blue Energy Bolt Rotation Setup_44
+  - first:
+      213: 8252774875559310714
+    second: Blue Energy Bolt Rotation Setup_45
+  - first:
+      213: 6298651040264990989
+    second: Blue Energy Bolt Rotation Setup_46
+  - first:
+      213: -1490129854235607087
+    second: Blue Energy Bolt Rotation Setup_47
+  - first:
+      213: -7375537695406448874
+    second: Blue Energy Bolt Rotation Setup_48
+  - first:
+      213: -1443760822919595780
+    second: Blue Energy Bolt Rotation Setup_49
+  - first:
+      213: 7960321583240246443
+    second: Blue Energy Bolt Rotation Setup_50
+  - first:
+      213: -1164076314155874314
+    second: Blue Energy Bolt Rotation Setup_51
+  - first:
+      213: -2766003950886623814
+    second: Blue Energy Bolt Rotation Setup_52
+  - first:
+      213: -1868603165679918052
+    second: Blue Energy Bolt Rotation Setup_53
+  - first:
+      213: 6564659124247374513
+    second: Blue Energy Bolt Rotation Setup_54
+  - first:
+      213: -3653648984236380366
+    second: Blue Energy Bolt Rotation Setup_55
+  - first:
+      213: -231476485155622668
+    second: Blue Energy Bolt Rotation Setup_56
+  - first:
+      213: 3881542339564405970
+    second: Blue Energy Bolt Rotation Setup_57
+  - first:
+      213: -1875245773428273608
+    second: Blue Energy Bolt Rotation Setup_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_0
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 663
+        width: 257
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fae107b784a13720800000000000000
+      internalID: 2824219344135908084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_1
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 706
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fba0bdda3e50130800000000000000
+      internalID: 3532479818585784074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_2
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 735
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f400751b6ce9530800000000000000
+      internalID: 3863743995301613319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_3
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 735
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8019d3e69b9603960800000000000000
+      internalID: 7579674418003939592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_4
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 727
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6733d4e8e2d46c170800000000000000
+      internalID: 8198325034025825142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_5
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 711
+        width: 65
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca00a0032092a0e40800000000000000
+      internalID: 5623352174098120876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_6
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 767
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f443e7a7e53832d90800000000000000
+      internalID: -7123705743764736945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 677
+        width: 153
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3311d2ee09f961db0800000000000000
+      internalID: -4821490906233499341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_8
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 663
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d562a2f99b4a6690800000000000000
+      internalID: -7608185495916223019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_9
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 671
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d833543890b3b3940800000000000000
+      internalID: 5276876300437762957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_10
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 695
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44596ebe9b6568940800000000000000
+      internalID: 5298017368174662980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_11
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 705
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2740b568ae14bd70800000000000000
+      internalID: 9057898459158300459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_12
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 709
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833d847931464fbe0800000000000000
+      internalID: -1444419545173798088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_13
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 671
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed48cecf2ec2fa4e0800000000000000
+      internalID: -1968305158720027426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_14
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 671
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776dd57dde5318b00800000000000000
+      internalID: 829003102049654391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_15
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 691
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453a9b5984004b660800000000000000
+      internalID: 7400540399426184020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_16
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 707
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31255fbf6f2f51c0800000000000000
+      internalID: -4512836144604044995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_17
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 73
+        width: 463
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9249186882b52c0800000000000000
+      internalID: -4441912049306162744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_18
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 705
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e563c4a16f7d13d30800000000000000
+      internalID: 4409542962175555166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_19
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 63
+        width: 699
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7427ce5de8f3fae60800000000000000
+      internalID: 7975663347803386439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_20
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 647
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0336fb230125bce0800000000000000
+      internalID: -1390168612467756273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_21
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 647
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7220624f9583c5ed0800000000000000
+      internalID: -2424000540432793049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_22
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 629
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab452b5717674050800000000000000
+      internalID: 5784705596391771052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 23
+        width: 385
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1663020e916c1f0800000000000000
+      internalID: -1025103414776405543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_24
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 613
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbcc5ce05fce5290800000000000000
+      internalID: -7899648749891433537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_25
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 571
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e1198628e972a10800000000000000
+      internalID: 1884649252015119986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_26
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 559
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a827324f5cae7fd70800000000000000
+      internalID: 9076981709913944714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 519
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0674d45f383c9dd80800000000000000
+      internalID: -8225328272891885728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_28
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 523
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671f4709ab3afc580800000000000000
+      internalID: -8804638724803202698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_29
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 517
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded122a46de4bd770800000000000000
+      internalID: 8636583392686775789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_30
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 517
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1587d1722b40d8f0800000000000000
+      internalID: -517831345836686052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_31
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 454
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2512fe839471f0500800000000000000
+      internalID: 364535698095546706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_32
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 437
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcc962761f6bd540800000000000000
+      internalID: 5033739150716161200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_33
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 469
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c68428304fb46ee0800000000000000
+      internalID: -1268678912470907194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_34
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 427
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a731b1513683890800000000000000
+      internalID: -7478118238948984189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_35
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 447
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7077a8d1cff37f9e0800000000000000
+      internalID: -1587729991564888313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_36
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 449
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2550ac265f2d96f10800000000000000
+      internalID: 2263572239096612178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_37
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 437
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215f2d124a6c2bd50800000000000000
+      internalID: 6751677199626204434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_38
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 394
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de9ae6f6c9f59e40800000000000000
+      internalID: 5662706739429678806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_39
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 435
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648718e46e2896ea0800000000000000
+      internalID: -5879023912884275130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_40
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 417
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40b8c1e42aed15c0800000000000000
+      internalID: -4242977829785391027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_41
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 398
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2b1f8c367c56e90800000000000000
+      internalID: -7032996011682188627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_42
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 389
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232f4e305dd44a3c0800000000000000
+      internalID: -4349265762844347854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_43
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 383
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7877315b838096ef0800000000000000
+      internalID: -114551275872094329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_44
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 307
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f110d41ba380300800000000000000
+      internalID: 218489115103010707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_45
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 270
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a753bf4360fb78270800000000000000
+      internalID: 8252774875559310714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_46
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 365
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01b32bdfbd496750800000000000000
+      internalID: 6298651040264990989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_47
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 367
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dff419eacef15be0800000000000000
+      internalID: -1490129854235607087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_48
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 348
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f9bc51b83d4a990800000000000000
+      internalID: -7375537695406448874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_49
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 351
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf870415e2bb6fbe0800000000000000
+      internalID: -1443760822919595780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_50
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 341
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4f8eaed4eb87e60800000000000000
+      internalID: 7960321583240246443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_51
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 351
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f70b4382ce58dfe0800000000000000
+      internalID: -1164076314155874314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_52
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 293
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab56314cf0e2d99d0800000000000000
+      internalID: -2766003950886623814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_53
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 259
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c146a7332536116e0800000000000000
+      internalID: -1868603165679918052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_54
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 277
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baaa4441ba5a1b50800000000000000
+      internalID: 6564659124247374513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_55
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 223
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23faf905b91ab4dc0800000000000000
+      internalID: -3653648984236380366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_56
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 223
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f07178fc51a9ccf0800000000000000
+      internalID: -231476485155622668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_57
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 243
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4006a41320ed530800000000000000
+      internalID: 3881542339564405970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Energy Bolt Rotation Setup_58
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 231
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e414097e9c9f5e0800000000000000
+      internalID: -1875245773428273608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blue Energy Bolt Rotation Setup_0: 2824219344135908084
+      Blue Energy Bolt Rotation Setup_1: 3532479818585784074
+      Blue Energy Bolt Rotation Setup_10: 5298017368174662980
+      Blue Energy Bolt Rotation Setup_11: 9057898459158300459
+      Blue Energy Bolt Rotation Setup_12: -1444419545173798088
+      Blue Energy Bolt Rotation Setup_13: -1968305158720027426
+      Blue Energy Bolt Rotation Setup_14: 829003102049654391
+      Blue Energy Bolt Rotation Setup_15: 7400540399426184020
+      Blue Energy Bolt Rotation Setup_16: -4512836144604044995
+      Blue Energy Bolt Rotation Setup_17: -4441912049306162744
+      Blue Energy Bolt Rotation Setup_18: 4409542962175555166
+      Blue Energy Bolt Rotation Setup_19: 7975663347803386439
+      Blue Energy Bolt Rotation Setup_2: 3863743995301613319
+      Blue Energy Bolt Rotation Setup_20: -1390168612467756273
+      Blue Energy Bolt Rotation Setup_21: -2424000540432793049
+      Blue Energy Bolt Rotation Setup_22: 5784705596391771052
+      Blue Energy Bolt Rotation Setup_23: -1025103414776405543
+      Blue Energy Bolt Rotation Setup_24: -7899648749891433537
+      Blue Energy Bolt Rotation Setup_25: 1884649252015119986
+      Blue Energy Bolt Rotation Setup_26: 9076981709913944714
+      Blue Energy Bolt Rotation Setup_27: -8225328272891885728
+      Blue Energy Bolt Rotation Setup_28: -8804638724803202698
+      Blue Energy Bolt Rotation Setup_29: 8636583392686775789
+      Blue Energy Bolt Rotation Setup_3: 7579674418003939592
+      Blue Energy Bolt Rotation Setup_30: -517831345836686052
+      Blue Energy Bolt Rotation Setup_31: 364535698095546706
+      Blue Energy Bolt Rotation Setup_32: 5033739150716161200
+      Blue Energy Bolt Rotation Setup_33: -1268678912470907194
+      Blue Energy Bolt Rotation Setup_34: -7478118238948984189
+      Blue Energy Bolt Rotation Setup_35: -1587729991564888313
+      Blue Energy Bolt Rotation Setup_36: 2263572239096612178
+      Blue Energy Bolt Rotation Setup_37: 6751677199626204434
+      Blue Energy Bolt Rotation Setup_38: 5662706739429678806
+      Blue Energy Bolt Rotation Setup_39: -5879023912884275130
+      Blue Energy Bolt Rotation Setup_4: 8198325034025825142
+      Blue Energy Bolt Rotation Setup_40: -4242977829785391027
+      Blue Energy Bolt Rotation Setup_41: -7032996011682188627
+      Blue Energy Bolt Rotation Setup_42: -4349265762844347854
+      Blue Energy Bolt Rotation Setup_43: -114551275872094329
+      Blue Energy Bolt Rotation Setup_44: 218489115103010707
+      Blue Energy Bolt Rotation Setup_45: 8252774875559310714
+      Blue Energy Bolt Rotation Setup_46: 6298651040264990989
+      Blue Energy Bolt Rotation Setup_47: -1490129854235607087
+      Blue Energy Bolt Rotation Setup_48: -7375537695406448874
+      Blue Energy Bolt Rotation Setup_49: -1443760822919595780
+      Blue Energy Bolt Rotation Setup_5: 5623352174098120876
+      Blue Energy Bolt Rotation Setup_50: 7960321583240246443
+      Blue Energy Bolt Rotation Setup_51: -1164076314155874314
+      Blue Energy Bolt Rotation Setup_52: -2766003950886623814
+      Blue Energy Bolt Rotation Setup_53: -1868603165679918052
+      Blue Energy Bolt Rotation Setup_54: 6564659124247374513
+      Blue Energy Bolt Rotation Setup_55: -3653648984236380366
+      Blue Energy Bolt Rotation Setup_56: -231476485155622668
+      Blue Energy Bolt Rotation Setup_57: 3881542339564405970
+      Blue Energy Bolt Rotation Setup_58: -1875245773428273608
+      Blue Energy Bolt Rotation Setup_6: -7123705743764736945
+      Blue Energy Bolt Rotation Setup_7: -4821490906233499341
+      Blue Energy Bolt Rotation Setup_8: -7608185495916223019
+      Blue Energy Bolt Rotation Setup_9: 5276876300437762957
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

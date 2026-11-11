@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: 32e2ddd541e97494ca8bdef9de42d1c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8220417574203996244
+    second: Pixel Art Hovering Demon Sprite Sheet_0
+  - first:
+      213: -5159752581381984782
+    second: Pixel Art Hovering Demon Sprite Sheet_1
+  - first:
+      213: -1807236842176478283
+    second: Pixel Art Hovering Demon Sprite Sheet_2
+  - first:
+      213: 9072420024201993013
+    second: Pixel Art Hovering Demon Sprite Sheet_3
+  - first:
+      213: 1377730372412077683
+    second: Pixel Art Hovering Demon Sprite Sheet_4
+  - first:
+      213: -3629874442446386087
+    second: Pixel Art Hovering Demon Sprite Sheet_5
+  - first:
+      213: 2516247633110562753
+    second: Pixel Art Hovering Demon Sprite Sheet_6
+  - first:
+      213: -4112859348881520879
+    second: Pixel Art Hovering Demon Sprite Sheet_7
+  - first:
+      213: 4804395284973772036
+    second: Pixel Art Hovering Demon Sprite Sheet_8
+  - first:
+      213: 5824667274143661714
+    second: Pixel Art Hovering Demon Sprite Sheet_9
+  - first:
+      213: -3838514349275443925
+    second: Pixel Art Hovering Demon Sprite Sheet_10
+  - first:
+      213: 1637535288572593141
+    second: Pixel Art Hovering Demon Sprite Sheet_11
+  - first:
+      213: -7249436649643349610
+    second: Pixel Art Hovering Demon Sprite Sheet_12
+  - first:
+      213: 3515394482474957993
+    second: Pixel Art Hovering Demon Sprite Sheet_13
+  - first:
+      213: -1258622121193324592
+    second: Pixel Art Hovering Demon Sprite Sheet_14
+  - first:
+      213: 6251650250144923718
+    second: Pixel Art Hovering Demon Sprite Sheet_15
+  - first:
+      213: 7514166472356594688
+    second: Pixel Art Hovering Demon Sprite Sheet_16
+  - first:
+      213: 4540060812567372818
+    second: Pixel Art Hovering Demon Sprite Sheet_17
+  - first:
+      213: -6490738114307055425
+    second: Pixel Art Hovering Demon Sprite Sheet_18
+  - first:
+      213: 8671261944886467248
+    second: Pixel Art Hovering Demon Sprite Sheet_19
+  - first:
+      213: 4300555948359681219
+    second: Pixel Art Hovering Demon Sprite Sheet_20
+  - first:
+      213: -8572932410829195295
+    second: Pixel Art Hovering Demon Sprite Sheet_21
+  - first:
+      213: -2339867888627209055
+    second: Pixel Art Hovering Demon Sprite Sheet_22
+  - first:
+      213: -4861294180254743897
+    second: Pixel Art Hovering Demon Sprite Sheet_23
+  - first:
+      213: -3800177686021580964
+    second: Pixel Art Hovering Demon Sprite Sheet_24
+  - first:
+      213: 4418892632843233157
+    second: Pixel Art Hovering Demon Sprite Sheet_25
+  - first:
+      213: 1230000868813603674
+    second: Pixel Art Hovering Demon Sprite Sheet_26
+  - first:
+      213: 7243808068292418056
+    second: Pixel Art Hovering Demon Sprite Sheet_27
+  - first:
+      213: 7209450839832348034
+    second: Pixel Art Hovering Demon Sprite Sheet_28
+  - first:
+      213: -8121603060982773232
+    second: Pixel Art Hovering Demon Sprite Sheet_29
+  - first:
+      213: 2508622652462504345
+    second: Pixel Art Hovering Demon Sprite Sheet_30
+  - first:
+      213: -2250236882759600126
+    second: Pixel Art Hovering Demon Sprite Sheet_31
+  - first:
+      213: 6950371199161010617
+    second: Pixel Art Hovering Demon Sprite Sheet_32
+  - first:
+      213: -585368156446500995
+    second: Pixel Art Hovering Demon Sprite Sheet_33
+  - first:
+      213: 6721091535163834345
+    second: Pixel Art Hovering Demon Sprite Sheet_34
+  - first:
+      213: -3175988457058950632
+    second: Pixel Art Hovering Demon Sprite Sheet_35
+  - first:
+      213: 873794589410658127
+    second: Pixel Art Hovering Demon Sprite Sheet_36
+  - first:
+      213: 4983120575297913072
+    second: Pixel Art Hovering Demon Sprite Sheet_37
+  - first:
+      213: -4641887478010216044
+    second: Pixel Art Hovering Demon Sprite Sheet_38
+  - first:
+      213: 6426664185240084993
+    second: Pixel Art Hovering Demon Sprite Sheet_39
+  - first:
+      213: 3538434388904340304
+    second: Pixel Art Hovering Demon Sprite Sheet_40
+  - first:
+      213: 4649994375391819200
+    second: Pixel Art Hovering Demon Sprite Sheet_41
+  - first:
+      213: 2894014785174304093
+    second: Pixel Art Hovering Demon Sprite Sheet_42
+  - first:
+      213: 138818197310516463
+    second: Pixel Art Hovering Demon Sprite Sheet_43
+  - first:
+      213: 7356135799114413705
+    second: Pixel Art Hovering Demon Sprite Sheet_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel Art Hovering Demon Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 683
+        width: 256
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7413815c53bed80800000000000000
+      internalID: -8220417574203996244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Hovering Demon Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 683
+        width: 256
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd62d16d50e468b0800000000000000
+      internalID: -5159752581381984782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Hovering Demon Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 683
+        width: 256
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3821dcaa76be6e0800000000000000
+      internalID: -1807236842176478283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Hovering Demon Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 683
+        width: 256
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b53bbb1f5b7ed70800000000000000
+      internalID: 9072420024201993013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Hovering Demon Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 683
+        width: 256
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37673e3697eae1310800000000000000
+      internalID: 1377730372412077683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Hovering Demon Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 683
+        width: 256
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cc6be2d6810adc0800000000000000
+      internalID: -3629874442446386087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Hovering Demon Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 256
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7f87204e18be220800000000000000
+      internalID: 2516247633110562753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Hovering Demon Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 372
+        width: 253
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117c5ca86303ce6c0800000000000000
+      internalID: -4112859348881520879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Hovering Demon Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 372
+        width: 246
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d5c619e04aca240800000000000000
+      internalID: 4804395284973772036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Hovering Demon Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 372
+        width: 246
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29efc22860065d050800000000000000
+      internalID: 5824667274143661714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Hovering Demon Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 372
+        width: 252
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d8232698bdabac0800000000000000
+      internalID: -3838514349275443925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Hovering Demon Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 372
+        width: 257
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3498e3ba1b9b610800000000000000
+      internalID: 1637535288572593141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Hovering Demon Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 256
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6996f4cb6c3d46b90800000000000000
+      internalID: -7249436649643349610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Hovering Demon Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 256
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acb94d08a039c030800000000000000
+      internalID: 3515394482474957993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Hovering Demon Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1
+        width: 256
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfb2d769d9788ee0800000000000000
+      internalID: -1258622121193324592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Hovering Demon Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640ced3a7c252c650800000000000000
+      internalID: 6251650250144923718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Hovering Demon Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1
+        width: 256
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00407f7489ea74860800000000000000
+      internalID: 7514166472356594688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Hovering Demon Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1
+        width: 256
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214efb73149810f30800000000000000
+      internalID: 4540060812567372818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 544f4a9b17a10b8448deb04406109610
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":3.0},"gridSpriteSize":{"x":256.0,"y":341.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Pixel Art Hovering Demon Sprite Sheet_0: -8220417574203996244
+      Pixel Art Hovering Demon Sprite Sheet_1: -5159752581381984782
+      Pixel Art Hovering Demon Sprite Sheet_10: -3838514349275443925
+      Pixel Art Hovering Demon Sprite Sheet_11: 1637535288572593141
+      Pixel Art Hovering Demon Sprite Sheet_12: -7249436649643349610
+      Pixel Art Hovering Demon Sprite Sheet_13: 3515394482474957993
+      Pixel Art Hovering Demon Sprite Sheet_14: -1258622121193324592
+      Pixel Art Hovering Demon Sprite Sheet_15: 6251650250144923718
+      Pixel Art Hovering Demon Sprite Sheet_16: 7514166472356594688
+      Pixel Art Hovering Demon Sprite Sheet_17: 4540060812567372818
+      Pixel Art Hovering Demon Sprite Sheet_2: -1807236842176478283
+      Pixel Art Hovering Demon Sprite Sheet_3: 9072420024201993013
+      Pixel Art Hovering Demon Sprite Sheet_4: 1377730372412077683
+      Pixel Art Hovering Demon Sprite Sheet_5: -3629874442446386087
+      Pixel Art Hovering Demon Sprite Sheet_6: 2516247633110562753
+      Pixel Art Hovering Demon Sprite Sheet_7: -4112859348881520879
+      Pixel Art Hovering Demon Sprite Sheet_8: 4804395284973772036
+      Pixel Art Hovering Demon Sprite Sheet_9: 5824667274143661714
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

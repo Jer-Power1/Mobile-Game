@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: f84268907fb9734498f68de9a08392c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2273542858081617723
+    second: Blue Crystal Mage Sprite Sheet_0
+  - first:
+      213: -7990578407821446028
+    second: Blue Crystal Mage Sprite Sheet_1
+  - first:
+      213: 4744107029559844946
+    second: Blue Crystal Mage Sprite Sheet_2
+  - first:
+      213: 4744639386246120780
+    second: Blue Crystal Mage Sprite Sheet_3
+  - first:
+      213: -6831864208895544484
+    second: Blue Crystal Mage Sprite Sheet_4
+  - first:
+      213: -375246494361630052
+    second: Blue Crystal Mage Sprite Sheet_5
+  - first:
+      213: -8287580184252858886
+    second: Blue Crystal Mage Sprite Sheet_6
+  - first:
+      213: -9904687303594275
+    second: Blue Crystal Mage Sprite Sheet_7
+  - first:
+      213: 537490669768826884
+    second: Blue Crystal Mage Sprite Sheet_8
+  - first:
+      213: -4644966423559510045
+    second: Blue Crystal Mage Sprite Sheet_9
+  - first:
+      213: 7649446815240028461
+    second: Blue Crystal Mage Sprite Sheet_10
+  - first:
+      213: 9155175346648303686
+    second: Blue Crystal Mage Sprite Sheet_11
+  - first:
+      213: -6818716578655164549
+    second: Blue Crystal Mage Sprite Sheet_12
+  - first:
+      213: -3719317274106551389
+    second: Blue Crystal Mage Sprite Sheet_13
+  - first:
+      213: -2267351280537010258
+    second: Blue Crystal Mage Sprite Sheet_14
+  - first:
+      213: -4879061687533072987
+    second: Blue Crystal Mage Sprite Sheet_15
+  - first:
+      213: 4097714438777385931
+    second: Blue Crystal Mage Sprite Sheet_16
+  - first:
+      213: 4103231415996847848
+    second: Blue Crystal Mage Sprite Sheet_17
+  - first:
+      213: 8370368767561637514
+    second: Blue Crystal Mage Sprite Sheet_18
+  - first:
+      213: -5197862581433935994
+    second: Blue Crystal Mage Sprite Sheet_19
+  - first:
+      213: 1962452736690070606
+    second: Blue Crystal Mage Sprite Sheet_20
+  - first:
+      213: 4707061651465142713
+    second: Blue Crystal Mage Sprite Sheet_21
+  - first:
+      213: -7391485931714521105
+    second: Blue Crystal Mage Sprite Sheet_22
+  - first:
+      213: -8158357955548207831
+    second: Blue Crystal Mage Sprite Sheet_23
+  - first:
+      213: -102801431957470721
+    second: Blue Crystal Mage Sprite Sheet_24
+  - first:
+      213: -2857528368027118274
+    second: Blue Crystal Mage Sprite Sheet_25
+  - first:
+      213: -388591382421330484
+    second: Blue Crystal Mage Sprite Sheet_26
+  - first:
+      213: -5100508431643253772
+    second: Blue Crystal Mage Sprite Sheet_27
+  - first:
+      213: -7438594514517319796
+    second: Blue Crystal Mage Sprite Sheet_28
+  - first:
+      213: -1162957437839254006
+    second: Blue Crystal Mage Sprite Sheet_29
+  - first:
+      213: -2540588212857209980
+    second: Blue Crystal Mage Sprite Sheet_30
+  - first:
+      213: -2698125140108163060
+    second: Blue Crystal Mage Sprite Sheet_31
+  - first:
+      213: 4363500857226438041
+    second: Blue Crystal Mage Sprite Sheet_32
+  - first:
+      213: -7642879164910176111
+    second: Blue Crystal Mage Sprite Sheet_33
+  - first:
+      213: 6745476988439224686
+    second: Blue Crystal Mage Sprite Sheet_34
+  - first:
+      213: 7734593629421603112
+    second: Blue Crystal Mage Sprite Sheet_35
+  - first:
+      213: 1806378266367358677
+    second: Blue Crystal Mage Sprite Sheet_36
+  - first:
+      213: 5537421507615490248
+    second: Blue Crystal Mage Sprite Sheet_37
+  - first:
+      213: 4441956681013726005
+    second: Blue Crystal Mage Sprite Sheet_38
+  - first:
+      213: 7726419507257669764
+    second: Blue Crystal Mage Sprite Sheet_39
+  - first:
+      213: -4313904780519839550
+    second: Blue Crystal Mage Sprite Sheet_40
+  - first:
+      213: -9163070331206506652
+    second: Blue Crystal Mage Sprite Sheet_41
+  - first:
+      213: 1968091085143375014
+    second: Blue Crystal Mage Sprite Sheet_42
+  - first:
+      213: -1924198207051537600
+    second: Blue Crystal Mage Sprite Sheet_43
+  - first:
+      213: 8525841992965868773
+    second: Blue Crystal Mage Sprite Sheet_44
+  - first:
+      213: 2927610561926845295
+    second: Blue Crystal Mage Sprite Sheet_45
+  - first:
+      213: -2672251164987218908
+    second: Blue Crystal Mage Sprite Sheet_46
+  - first:
+      213: 5269103710958969950
+    second: Blue Crystal Mage Sprite Sheet_47
+  - first:
+      213: -6884921641470950340
+    second: Blue Crystal Mage Sprite Sheet_48
+  - first:
+      213: -7259320920233005746
+    second: Blue Crystal Mage Sprite Sheet_49
+  - first:
+      213: 9071575550956553699
+    second: Blue Crystal Mage Sprite Sheet_50
+  - first:
+      213: 3605086856269160622
+    second: Blue Crystal Mage Sprite Sheet_51
+  - first:
+      213: 1760068752605448049
+    second: Blue Crystal Mage Sprite Sheet_52
+  - first:
+      213: 8221072474235455216
+    second: Blue Crystal Mage Sprite Sheet_53
+  - first:
+      213: 7388724980404502253
+    second: Blue Crystal Mage Sprite Sheet_54
+  - first:
+      213: -3000388492618154422
+    second: Blue Crystal Mage Sprite Sheet_55
+  - first:
+      213: -7062432627911667477
+    second: Blue Crystal Mage Sprite Sheet_56
+  - first:
+      213: -971065888285150055
+    second: Blue Crystal Mage Sprite Sheet_57
+  - first:
+      213: -6272673810878371234
+    second: Blue Crystal Mage Sprite Sheet_58
+  - first:
+      213: -225170839061632436
+    second: Blue Crystal Mage Sprite Sheet_59
+  - first:
+      213: -2773306653268353782
+    second: Blue Crystal Mage Sprite Sheet_60
+  - first:
+      213: 2333599489348570383
+    second: Blue Crystal Mage Sprite Sheet_61
+  - first:
+      213: -3145335209249607779
+    second: Blue Crystal Mage Sprite Sheet_62
+  - first:
+      213: 7008651508426207129
+    second: Blue Crystal Mage Sprite Sheet_63
+  - first:
+      213: -1583813463287103602
+    second: Blue Crystal Mage Sprite Sheet_64
+  - first:
+      213: -918790255833567365
+    second: Blue Crystal Mage Sprite Sheet_65
+  - first:
+      213: -5284893828654268242
+    second: Blue Crystal Mage Sprite Sheet_66
+  - first:
+      213: 7051990554974879032
+    second: Blue Crystal Mage Sprite Sheet_67
+  - first:
+      213: 5240576255641773229
+    second: Blue Crystal Mage Sprite Sheet_68
+  - first:
+      213: 6649711352105456298
+    second: Blue Crystal Mage Sprite Sheet_69
+  - first:
+      213: -5630181023734767762
+    second: Blue Crystal Mage Sprite Sheet_70
+  - first:
+      213: 6979912047277219749
+    second: Blue Crystal Mage Sprite Sheet_71
+  - first:
+      213: -191295105214291996
+    second: Blue Crystal Mage Sprite Sheet_72
+  - first:
+      213: -6792000511518053511
+    second: Blue Crystal Mage Sprite Sheet_73
+  - first:
+      213: -9153704867590083759
+    second: Blue Crystal Mage Sprite Sheet_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 295
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d1b8f1da46a6340a83aaa1e3f5b27a
+      internalID: -1416009432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 444
+        width: 295
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b2f1bdf2ffd334aabedb5cf1bcee28
+      internalID: -576858992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_2
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 444
+        width: 295
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809b6446272f72d449d443ff655baea3
+      internalID: 1697609816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_3
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 444
+        width: 295
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba854637f54f3f4ca90abe06c6960cb
+      internalID: 775950925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_4
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 444
+        width: 295
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6786b72505414440a7a29afbb557cb5
+      internalID: -869068422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_5
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 444
+        width: 295
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa5b3a72756f9b439efcf0ee113421d
+      internalID: -1247170334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 295
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7210881c7292a458e24d1a6d503f90
+      internalID: -306882179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 287
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bab7a8fd397f148a93985b0dacfba4
+      internalID: 1687504837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_8
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1
+        width: 295
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7fc1bb7f8937142b2d8e38ae352347
+      internalID: 512720582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_9
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 284
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a192d5d846324645ab818dbb9cc9481
+      internalID: 1896766315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_10
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1
+        width: 283
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8ad1348be11814f8529b251d2cf961
+      internalID: 1677324469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_11
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1
+        width: 295
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f234e66bbb56b4fbae1e16786be0fe
+      internalID: -1150870786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d4a2b4cb8070c254ca55c67cdaf12467
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Knight_0: -1416009432
+      Knight_1: -576858992
+      Knight_10: 1677324469
+      Knight_11: -1150870786
+      Knight_2: 1697609816
+      Knight_3: 775950925
+      Knight_4: -869068422
+      Knight_5: -1247170334
+      Knight_6: -306882179
+      Knight_7: 1687504837
+      Knight_8: 512720582
+      Knight_9: 1896766315
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

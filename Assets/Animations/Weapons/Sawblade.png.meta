@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: 44341f7451e5f6c4bb589a53bb0417eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8873933726151394710
+    second: Glowing Blue Orbital Saw Sprite Sheet_0
+  - first:
+      213: 4459117394387993627
+    second: Glowing Blue Orbital Saw Sprite Sheet_1
+  - first:
+      213: -3047051325782581381
+    second: Glowing Blue Orbital Saw Sprite Sheet_2
+  - first:
+      213: -4068155386793303041
+    second: Glowing Blue Orbital Saw Sprite Sheet_3
+  - first:
+      213: -330530053381998310
+    second: Glowing Blue Orbital Saw Sprite Sheet_4
+  - first:
+      213: 8217738454886971298
+    second: Glowing Blue Orbital Saw Sprite Sheet_5
+  - first:
+      213: 2806653134285977042
+    second: Glowing Blue Orbital Saw Sprite Sheet_6
+  - first:
+      213: -7172111343169369621
+    second: Glowing Blue Orbital Saw Sprite Sheet_7
+  - first:
+      213: -6641646863019618464
+    second: Glowing Blue Orbital Saw Sprite Sheet_8
+  - first:
+      213: 7460536692584055782
+    second: Glowing Blue Orbital Saw Sprite Sheet_9
+  - first:
+      213: -7558098745356343026
+    second: Glowing Blue Orbital Saw Sprite Sheet_10
+  - first:
+      213: -341712414021546642
+    second: Glowing Blue Orbital Saw Sprite Sheet_11
+  - first:
+      213: 2621815090606793851
+    second: Glowing Blue Orbital Saw Sprite Sheet_12
+  - first:
+      213: -8701224183123990477
+    second: Glowing Blue Orbital Saw Sprite Sheet_13
+  - first:
+      213: 5892066700648968289
+    second: Glowing Blue Orbital Saw Sprite Sheet_14
+  - first:
+      213: 4258233719350264991
+    second: Glowing Blue Orbital Saw Sprite Sheet_15
+  - first:
+      213: 951635213069139953
+    second: Glowing Blue Orbital Saw Sprite Sheet_16
+  - first:
+      213: 7844201620830987543
+    second: Glowing Blue Orbital Saw Sprite Sheet_17
+  - first:
+      213: 6534443900774409302
+    second: Glowing Blue Orbital Saw Sprite Sheet_18
+  - first:
+      213: 3399899142900631370
+    second: Glowing Blue Orbital Saw Sprite Sheet_19
+  - first:
+      213: -816157064553365958
+    second: Glowing Blue Orbital Saw Sprite Sheet_20
+  - first:
+      213: -4875878396642951228
+    second: Glowing Blue Orbital Saw Sprite Sheet_21
+  - first:
+      213: -8283421686682197623
+    second: Glowing Blue Orbital Saw Sprite Sheet_22
+  - first:
+      213: -2316172810476031867
+    second: Glowing Blue Orbital Saw Sprite Sheet_23
+  - first:
+      213: 688431056176755669
+    second: Glowing Blue Orbital Saw Sprite Sheet_24
+  - first:
+      213: -4760383365592205047
+    second: Glowing Blue Orbital Saw Sprite Sheet_25
+  - first:
+      213: -8034564687016116221
+    second: Glowing Blue Orbital Saw Sprite Sheet_26
+  - first:
+      213: 7614648421585963157
+    second: Glowing Blue Orbital Saw Sprite Sheet_27
+  - first:
+      213: 6964020272362115558
+    second: Glowing Blue Orbital Saw Sprite Sheet_28
+  - first:
+      213: -3308383410124398063
+    second: Glowing Blue Orbital Saw Sprite Sheet_29
+  - first:
+      213: 4581805463809737318
+    second: Glowing Blue Orbital Saw Sprite Sheet_30
+  - first:
+      213: -5432527915954386438
+    second: Glowing Blue Orbital Saw Sprite Sheet_31
+  - first:
+      213: -3757170233056572347
+    second: Glowing Blue Orbital Saw Sprite Sheet_32
+  - first:
+      213: -4866487128299638985
+    second: Glowing Blue Orbital Saw Sprite Sheet_33
+  - first:
+      213: 3518013778261416683
+    second: Glowing Blue Orbital Saw Sprite Sheet_34
+  - first:
+      213: -8523405320019826700
+    second: Glowing Blue Orbital Saw Sprite Sheet_35
+  - first:
+      213: 5813491606280428503
+    second: Glowing Blue Orbital Saw Sprite Sheet_36
+  - first:
+      213: 5999394749001547564
+    second: Glowing Blue Orbital Saw Sprite Sheet_37
+  - first:
+      213: 1961019210257405797
+    second: Glowing Blue Orbital Saw Sprite Sheet_38
+  - first:
+      213: 7423035437220397597
+    second: Glowing Blue Orbital Saw Sprite Sheet_39
+  - first:
+      213: 5131477286273899496
+    second: Glowing Blue Orbital Saw Sprite Sheet_40
+  - first:
+      213: 5218773468344854909
+    second: Glowing Blue Orbital Saw Sprite Sheet_41
+  - first:
+      213: 4015983278413376623
+    second: Glowing Blue Orbital Saw Sprite Sheet_42
+  - first:
+      213: 5478876775614583611
+    second: Glowing Blue Orbital Saw Sprite Sheet_43
+  - first:
+      213: 4891324179023013413
+    second: Glowing Blue Orbital Saw Sprite Sheet_44
+  - first:
+      213: -1146951394113193605
+    second: Glowing Blue Orbital Saw Sprite Sheet_45
+  - first:
+      213: -552593385159283687
+    second: Glowing Blue Orbital Saw Sprite Sheet_46
+  - first:
+      213: -8486598654879435438
+    second: Glowing Blue Orbital Saw Sprite Sheet_47
+  - first:
+      213: 4866611183722639923
+    second: Glowing Blue Orbital Saw Sprite Sheet_48
+  - first:
+      213: 6535041893035206214
+    second: Glowing Blue Orbital Saw Sprite Sheet_49
+  - first:
+      213: 6316988896221608321
+    second: Glowing Blue Orbital Saw Sprite Sheet_50
+  - first:
+      213: -3535182319192527780
+    second: Glowing Blue Orbital Saw Sprite Sheet_51
+  - first:
+      213: -4971875980057669168
+    second: Glowing Blue Orbital Saw Sprite Sheet_52
+  - first:
+      213: 5570680100924396129
+    second: Glowing Blue Orbital Saw Sprite Sheet_53
+  - first:
+      213: -8030325611703465425
+    second: Glowing Blue Orbital Saw Sprite Sheet_54
+  - first:
+      213: 3821023384713207144
+    second: Glowing Blue Orbital Saw Sprite Sheet_55
+  - first:
+      213: 5415038712021623292
+    second: Glowing Blue Orbital Saw Sprite Sheet_56
+  - first:
+      213: -2888202303035395386
+    second: Glowing Blue Orbital Saw Sprite Sheet_57
+  - first:
+      213: -3325179876248343091
+    second: Glowing Blue Orbital Saw Sprite Sheet_58
+  - first:
+      213: -6232860567094149491
+    second: Glowing Blue Orbital Saw Sprite Sheet_59
+  - first:
+      213: -4956827986013694809
+    second: Glowing Blue Orbital Saw Sprite Sheet_60
+  - first:
+      213: -8594867518701070669
+    second: Glowing Blue Orbital Saw Sprite Sheet_61
+  - first:
+      213: 4679294006341749933
+    second: Glowing Blue Orbital Saw Sprite Sheet_62
+  - first:
+      213: 2337241339074538090
+    second: Glowing Blue Orbital Saw Sprite Sheet_63
+  - first:
+      213: 8852848982283324164
+    second: Glowing Blue Orbital Saw Sprite Sheet_64
+  - first:
+      213: 2232465747894056301
+    second: Glowing Blue Orbital Saw Sprite Sheet_65
+  - first:
+      213: -5924658224015228741
+    second: Glowing Blue Orbital Saw Sprite Sheet_66
+  - first:
+      213: -7862244897469653904
+    second: Glowing Blue Orbital Saw Sprite Sheet_67
+  - first:
+      213: -3394978623399396535
+    second: Glowing Blue Orbital Saw Sprite Sheet_68
+  - first:
+      213: 1140806456186281725
+    second: Glowing Blue Orbital Saw Sprite Sheet_69
+  - first:
+      213: -8333108138316655713
+    second: Glowing Blue Orbital Saw Sprite Sheet_70
+  - first:
+      213: 3020632046039378715
+    second: Glowing Blue Orbital Saw Sprite Sheet_71
+  - first:
+      213: 6838080373435457425
+    second: Glowing Blue Orbital Saw Sprite Sheet_72
+  - first:
+      213: 1490505200412705318
+    second: Glowing Blue Orbital Saw Sprite Sheet_73
+  - first:
+      213: 6457484035873410826
+    second: Glowing Blue Orbital Saw Sprite Sheet_74
+  - first:
+      213: -6562152539801505146
+    second: Glowing Blue Orbital Saw Sprite Sheet_75
+  - first:
+      213: -291717594320075057
+    second: Glowing Blue Orbital Saw Sprite Sheet_76
+  - first:
+      213: 5947574674079494736
+    second: Glowing Blue Orbital Saw Sprite Sheet_77
+  - first:
+      213: 5602112610147760653
+    second: Glowing Blue Orbital Saw Sprite Sheet_78
+  - first:
+      213: 29802459573567379
+    second: Glowing Blue Orbital Saw Sprite Sheet_79
+  - first:
+      213: -9069326529559145622
+    second: Glowing Blue Orbital Saw Sprite Sheet_80
+  - first:
+      213: 2749065731535054099
+    second: Glowing Blue Orbital Saw Sprite Sheet_81
+  - first:
+      213: 6026677949222000359
+    second: Glowing Blue Orbital Saw Sprite Sheet_82
+  - first:
+      213: 3093032528681063450
+    second: Glowing Blue Orbital Saw Sprite Sheet_83
+  - first:
+      213: 2068124103953850206
+    second: Glowing Blue Orbital Saw Sprite Sheet_84
+  - first:
+      213: -8172285277895056040
+    second: Glowing Blue Orbital Saw Sprite Sheet_85
+  - first:
+      213: -7164817651428372194
+    second: Glowing Blue Orbital Saw Sprite Sheet_86
+  - first:
+      213: -3571160816065449146
+    second: Glowing Blue Orbital Saw Sprite Sheet_87
+  - first:
+      213: 7290163794342387399
+    second: Glowing Blue Orbital Saw Sprite Sheet_88
+  - first:
+      213: -8643879970960546472
+    second: Glowing Blue Orbital Saw Sprite Sheet_89
+  - first:
+      213: 8209017019869422831
+    second: Glowing Blue Orbital Saw Sprite Sheet_90
+  - first:
+      213: -924268944418368181
+    second: Glowing Blue Orbital Saw Sprite Sheet_91
+  - first:
+      213: 2455217313761549763
+    second: Glowing Blue Orbital Saw Sprite Sheet_92
+  - first:
+      213: 8426071432496784143
+    second: Glowing Blue Orbital Saw Sprite Sheet_93
+  - first:
+      213: 9056044107780144587
+    second: Glowing Blue Orbital Saw Sprite Sheet_94
+  - first:
+      213: 1557721734906283206
+    second: Glowing Blue Orbital Saw Sprite Sheet_95
+  - first:
+      213: -6956934883826284051
+    second: Glowing Blue Orbital Saw Sprite Sheet_96
+  - first:
+      213: 68751765645367168
+    second: Glowing Blue Orbital Saw Sprite Sheet_97
+  - first:
+      213: -701996672154122794
+    second: Glowing Blue Orbital Saw Sprite Sheet_98
+  - first:
+      213: 1468565848850268713
+    second: Glowing Blue Orbital Saw Sprite Sheet_99
+  - first:
+      213: 8660848057614894743
+    second: Glowing Blue Orbital Saw Sprite Sheet_100
+  - first:
+      213: -2587868356159340679
+    second: Glowing Blue Orbital Saw Sprite Sheet_101
+  - first:
+      213: 6993701309939372160
+    second: Glowing Blue Orbital Saw Sprite Sheet_102
+  - first:
+      213: -8204892214630178577
+    second: Glowing Blue Orbital Saw Sprite Sheet_103
+  - first:
+      213: -8682277916801269740
+    second: Glowing Blue Orbital Saw Sprite Sheet_104
+  - first:
+      213: -8006423609757738117
+    second: Glowing Blue Orbital Saw Sprite Sheet_105
+  - first:
+      213: -8225501821238240903
+    second: Glowing Blue Orbital Saw Sprite Sheet_106
+  - first:
+      213: 2508036275117482356
+    second: Glowing Blue Orbital Saw Sprite Sheet_107
+  - first:
+      213: -4129790510070720562
+    second: Glowing Blue Orbital Saw Sprite Sheet_108
+  - first:
+      213: 4611397994124632967
+    second: Glowing Blue Orbital Saw Sprite Sheet_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sawblade_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 315
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b380fa527120784684df4cf500689ec
+      internalID: -381055741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawblade_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 444
+        width: 288
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6223566aa4570d448a64d4cb30144cb5
+      internalID: 2021678799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawblade_2
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 444
+        width: 279
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e6b50a1d054444f9f14a74fb7e7f37
+      internalID: -1089622131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawblade_3
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 444
+        width: 295
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359811d16979ca24aaab9a8438e6cb39
+      internalID: -469855528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawblade_4
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 444
+        width: 295
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f78664e8c14bb47a3c11b14b3eb2e1
+      internalID: 1161039704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawblade_5
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 444
+        width: 295
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0534e5483bbe5e641b3ff6e71665c6f8
+      internalID: -1335806049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawblade_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 326
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caec5f051ea36fe40b1bb29cc0a739cf
+      internalID: 1087508857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawblade_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1
+        width: 288
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da75d4f3a2701144f9743118edd9f2a2
+      internalID: 143247078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawblade_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1
+        width: 280
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309afc97900a62845becc0f07fd7a98e
+      internalID: -1198925712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawblade_9
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1
+        width: 282
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a980ec2bed7b6c498bb0ee93b3d0644
+      internalID: 1584987024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawblade_10
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1
+        width: 295
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5e9203c9572074192702975f3d967c
+      internalID: 1896553565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawblade_11
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1
+        width: 295
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f972604622fc624594c9b7a1fc6aea6
+      internalID: -331849052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1ebc2872d417d8f429d4e10bb0f4e3c0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":2.0},"gridSpriteSize":{"x":295.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Sawblade_0: -381055741
+      Sawblade_1: 2021678799
+      Sawblade_10: 1896553565
+      Sawblade_11: -331849052
+      Sawblade_2: -1089622131
+      Sawblade_3: -469855528
+      Sawblade_4: 1161039704
+      Sawblade_5: -1335806049
+      Sawblade_6: 1087508857
+      Sawblade_7: 143247078
+      Sawblade_8: -1198925712
+      Sawblade_9: 1584987024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

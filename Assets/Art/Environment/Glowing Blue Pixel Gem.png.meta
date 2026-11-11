@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 95bdc6d3e95c2fd4f910319ef8e8242c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5841368975941884074
+    second: Glowing Blue Pixel Gem_0
+  - first:
+      213: 8017932606849275411
+    second: Glowing Blue Pixel Gem_1
+  - first:
+      213: -1027808786719076338
+    second: Glowing Blue Pixel Gem_2
+  - first:
+      213: -178668047607195846
+    second: Glowing Blue Pixel Gem_3
+  - first:
+      213: -1554263738014753565
+    second: Glowing Blue Pixel Gem_4
+  - first:
+      213: -8322760044659605655
+    second: Glowing Blue Pixel Gem_5
+  - first:
+      213: 5735589231503701506
+    second: Glowing Blue Pixel Gem_6
+  - first:
+      213: -1662937794445490108
+    second: Glowing Blue Pixel Gem_7
+  - first:
+      213: 2471710329259088141
+    second: Glowing Blue Pixel Gem_8
+  - first:
+      213: 1721538053737231863
+    second: Glowing Blue Pixel Gem_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glowing Blue Pixel Gem_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1261
+        height: 1247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6572ff28dd94feea0800000000000000
+      internalID: -5841368975941884074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowing Blue Pixel Gem_1
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1233
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316d540a93b654f60800000000000000
+      internalID: 8017932606849275411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowing Blue Pixel Gem_2
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 674
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e009592aa5d7cb1f0800000000000000
+      internalID: -1027808786719076338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowing Blue Pixel Gem_3
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 522
+        width: 59
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3719a97b5e358df0800000000000000
+      internalID: -178668047607195846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowing Blue Pixel Gem_4
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 507
+        width: 8
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec1c587d552e6ae0800000000000000
+      internalID: -1554263738014753565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowing Blue Pixel Gem_5
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 434
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fff33d5dd9f7c80800000000000000
+      internalID: -8322760044659605655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowing Blue Pixel Gem_6
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 309
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20675518408e89f40800000000000000
+      internalID: 5735589231503701506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowing Blue Pixel Gem_7
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 270
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4484186f2ee0ce8e0800000000000000
+      internalID: -1662937794445490108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowing Blue Pixel Gem_8
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 218
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09d623e2774d4220800000000000000
+      internalID: 2471710329259088141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glowing Blue Pixel Gem_9
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 20
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f533502db124e710800000000000000
+      internalID: 1721538053737231863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Glowing Blue Pixel Gem_0: -5841368975941884074
+      Glowing Blue Pixel Gem_1: 8017932606849275411
+      Glowing Blue Pixel Gem_2: -1027808786719076338
+      Glowing Blue Pixel Gem_3: -178668047607195846
+      Glowing Blue Pixel Gem_4: -1554263738014753565
+      Glowing Blue Pixel Gem_5: -8322760044659605655
+      Glowing Blue Pixel Gem_6: 5735589231503701506
+      Glowing Blue Pixel Gem_7: -1662937794445490108
+      Glowing Blue Pixel Gem_8: 2471710329259088141
+      Glowing Blue Pixel Gem_9: 1721538053737231863
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

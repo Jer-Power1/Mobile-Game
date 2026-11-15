@@ -90,22 +90,16 @@ public class UpgradeManager : MonoBehaviour
         if (playerStats != null)
         {
             if (magicBoltWeapon == null)
-            {
                 magicBoltWeapon =
                     playerStats.GetComponent<AutoAttack>();
-            }
 
             if (arcaneOrbitWeapon == null)
-            {
                 arcaneOrbitWeapon =
                     playerStats.GetComponent<ArcaneOrbit>();
-            }
 
             if (magicNovaWeapon == null)
-            {
                 magicNovaWeapon =
                     playerStats.GetComponent<MagicNova>();
-            }
         }
 
         CheckReferences();
@@ -114,32 +108,24 @@ public class UpgradeManager : MonoBehaviour
     private void CheckReferences()
     {
         if (playerStats == null)
-        {
             Debug.LogError(
-                "UpgradeManager: PlayerStats is not assigned!"
+                "UpgradeManager: PlayerStats not assigned!"
             );
-        }
 
         if (magicBoltWeapon == null)
-        {
             Debug.LogError(
-                "UpgradeManager: AutoAttack is not assigned!"
+                "UpgradeManager: AutoAttack not assigned!"
             );
-        }
 
         if (arcaneOrbitWeapon == null)
-        {
             Debug.LogError(
-                "UpgradeManager: ArcaneOrbit is not assigned!"
+                "UpgradeManager: ArcaneOrbit not assigned!"
             );
-        }
 
         if (magicNovaWeapon == null)
-        {
             Debug.LogError(
-                "UpgradeManager: MagicNova is not assigned!"
+                "UpgradeManager: MagicNova not assigned!"
             );
-        }
     }
 
     public List<Upgrade> GetUpgradeChoices()
@@ -150,9 +136,7 @@ public class UpgradeManager : MonoBehaviour
         List<Upgrade> choices =
             new List<Upgrade>();
 
-        while (
-            choices.Count < 3 &&
-            available.Count > 0)
+        while (choices.Count < 3 && available.Count > 0)
         {
             int randomIndex =
                 Random.Range(0, available.Count);
@@ -185,28 +169,19 @@ public class UpgradeManager : MonoBehaviour
 
         foreach (Upgrade upgrade in allUpgrades)
         {
-            if (
-                upgrade.owned &&
+            if (upgrade.owned &&
                 upgrade.level >= upgrade.maxLevel)
-            {
                 continue;
-            }
 
-            if (
-                !upgrade.owned &&
+            if (!upgrade.owned &&
                 upgrade.type == UpgradeType.Weapon &&
                 weaponCount >= MaxWeapons)
-            {
                 continue;
-            }
 
-            if (
-                !upgrade.owned &&
+            if (!upgrade.owned &&
                 upgrade.type == UpgradeType.Passive &&
                 passiveCount >= MaxPassives)
-            {
                 continue;
-            }
 
             available.Add(upgrade);
         }
@@ -219,12 +194,9 @@ public class UpgradeManager : MonoBehaviour
         if (upgrade == null)
             return;
 
-        if (
-            upgrade.owned &&
+        if (upgrade.owned &&
             upgrade.level >= upgrade.maxLevel)
-        {
             return;
-        }
 
         if (!upgrade.owned)
         {
@@ -243,9 +215,6 @@ public class UpgradeManager : MonoBehaviour
             $"to Level {upgrade.level}"
         );
 
-        // CA2 local telemetry:
-        // Records a free level-up upgrade choice.
-        // This does not represent real-money spending.
         string upgradeId = upgrade.upgradeName
             .Replace(" ", "_")
             .ToLowerInvariant();
@@ -261,6 +230,10 @@ public class UpgradeManager : MonoBehaviour
             " type=" + upgradeType +
             " source=level_up_choice"
         );
+
+        // Haptic feedback for a successful upgrade.
+        // The saved setting controls whether it vibrates.
+        GameSettings.Vibrate();
     }
 
     private void ApplyUpgrade(Upgrade upgrade)
@@ -268,44 +241,32 @@ public class UpgradeManager : MonoBehaviour
         if (upgrade == might)
         {
             if (playerStats != null)
-            {
                 playerStats.UpgradeMight();
-            }
         }
         else if (upgrade == haste)
         {
             if (playerStats != null)
-            {
                 playerStats.UpgradeHaste();
-            }
         }
         else if (upgrade == swiftBoots)
         {
             if (playerStats != null)
-            {
                 playerStats.UpgradeMoveSpeed();
-            }
         }
         else if (upgrade == magicBolt)
         {
             if (magicBoltWeapon != null)
-            {
                 magicBoltWeapon.UpgradeWeapon();
-            }
         }
         else if (upgrade == arcaneOrbit)
         {
             if (arcaneOrbitWeapon != null)
-            {
                 arcaneOrbitWeapon.UpgradeWeapon();
-            }
         }
         else if (upgrade == magicNova)
         {
             if (magicNovaWeapon != null)
-            {
                 magicNovaWeapon.UpgradeWeapon();
-            }
         }
     }
 

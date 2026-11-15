@@ -275,8 +275,8 @@ PlayerSettings:
   AndroidTargetArchitectures: 2
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: '{dedicated}: Downloads/user.keystore'
-  AndroidKeyaliasName: jerkey
+  AndroidKeystoreName: C:/Users/micha/Documents/Keystore/user.keystore
+  AndroidKeyaliasName: jer
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidEnableArm64MTE: 0
   AndroidBuildApkPerCpuArchitecture: 0

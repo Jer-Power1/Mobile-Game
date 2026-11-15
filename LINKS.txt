@@ -1,0 +1,11 @@
+
+Arcane Survivor — CA2
+
+GitHub Repository:
+https://github.com/Jer-Power1/Mobile-Game
+
+Release Tag:
+v0.5.0-CA2
+
+Release URL:
+https://github.com/Jer-Power1/Mobile-Game/releases/tag/v0.5.0-CA2

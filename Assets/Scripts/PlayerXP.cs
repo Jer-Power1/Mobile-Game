@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿
+using UnityEngine;
 
 public class PlayerXP : MonoBehaviour
 {
@@ -12,17 +13,25 @@ public class PlayerXP : MonoBehaviour
     [Header("UI")]
     [SerializeField] private LevelUpUI levelUpUI;
 
+    private int totalXPCollected;
+
     public int Level => level;
     public int CurrentXP => currentXP;
     public int XPToNextLevel => xpToNextLevel;
+    public int TotalXPCollected => totalXPCollected;
+
+    private void Awake()
+    {
+        xpToNextLevel = Mathf.Max(1, xpToNextLevel);
+    }
 
     public void AddXP(int amount)
     {
-        currentXP += amount;
+        if (amount <= 0)
+            return;
 
-        Debug.Log(
-            $"XP: {currentXP}/{xpToNextLevel}"
-        );
+        currentXP += amount;
+        totalXPCollected += amount;
 
         if (currentXP >= xpToNextLevel)
         {
@@ -32,14 +41,30 @@ public class PlayerXP : MonoBehaviour
 
     private void LevelUp()
     {
-        currentXP -= xpToNextLevel;
+        int xpCost = xpToNextLevel;
+
+        // Spend the XP needed for this level.
+        // Any extra XP is carried forward.
+        currentXP -= xpCost;
 
         level++;
 
+        // Increase the next level requirement.
         xpToNextLevel += 3;
 
         Debug.Log(
             $"LEVEL UP! Level {level}"
+        );
+
+        // CA2 local telemetry.
+        // Records the XP spent to reach the level.
+        Telemetry.Log(
+            "level_up",
+            "level=" + level +
+            " xp_spent=" + xpCost +
+            " xp_remaining=" + currentXP +
+            " next_xp_cost=" + xpToNextLevel +
+            " total_xp_collected=" + totalXPCollected
         );
 
         if (levelUpUI != null)

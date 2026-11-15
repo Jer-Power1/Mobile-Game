@@ -1,3 +1,4 @@
+
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -154,18 +155,11 @@ public class UpgradeManager : MonoBehaviour
             available.Count > 0)
         {
             int randomIndex =
-                Random.Range(
-                    0,
-                    available.Count
-                );
+                Random.Range(0, available.Count);
 
-            choices.Add(
-                available[randomIndex]
-            );
+            choices.Add(available[randomIndex]);
 
-            available.RemoveAt(
-                randomIndex
-            );
+            available.RemoveAt(randomIndex);
         }
 
         return choices;
@@ -186,11 +180,8 @@ public class UpgradeManager : MonoBehaviour
             swiftBoots
         };
 
-        int weaponCount =
-            CountOwnedWeapons();
-
-        int passiveCount =
-            CountOwnedPassives();
+        int weaponCount = CountOwnedWeapons();
+        int passiveCount = CountOwnedPassives();
 
         foreach (Upgrade upgrade in allUpgrades)
         {
@@ -250,6 +241,25 @@ public class UpgradeManager : MonoBehaviour
         Debug.Log(
             $"{upgrade.upgradeName} upgraded " +
             $"to Level {upgrade.level}"
+        );
+
+        // CA2 local telemetry:
+        // Records a free level-up upgrade choice.
+        // This does not represent real-money spending.
+        string upgradeId = upgrade.upgradeName
+            .Replace(" ", "_")
+            .ToLowerInvariant();
+
+        string upgradeType = upgrade.type
+            .ToString()
+            .ToLowerInvariant();
+
+        Telemetry.Log(
+            "upgrade_purchased",
+            "upgrade_id=" + upgradeId +
+            " level=" + upgrade.level +
+            " type=" + upgradeType +
+            " source=level_up_choice"
         );
     }
 
